@@ -1,4 +1,4 @@
-# Hepsiburada Sipariş Tutaru Toplama Scripti
+# Hepsiburada Sipariş Tutarı Toplama Scripti
 
 /** Kod Başlangıcı */
 
